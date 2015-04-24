@@ -1,6 +1,6 @@
 {
   "name": "gulp-angular-dependencies-updater",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Add files to the stream when a dependency has been updated",
   "license": "MIT",
   "repository": "miguelrjim/gulp-angular-dependencies-updater",
